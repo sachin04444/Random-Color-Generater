@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 20vw;
+    height: 10vh;
+    background-color: green;
+}
+button{
+    display: block;
+    color: white;
+    border: none;
+    background-color: black;
+    width: 100%;
+    height: 7vh;
+    cursor: pointer;
+  
+}
